@@ -56,7 +56,10 @@ Observability & debugging skills
 
 This README documents every module and assignment, including key takeaways and links to the work.
 
+```
+
 📑 Repository Structure
+```
 machine-learning-zoomcamp-homework/
 │
 ├── Homework1.ipynb
@@ -86,6 +89,8 @@ machine-learning-zoomcamp-homework/
 ├── ChurnPrediction.ipynb
 ├── NeuralNetwork.ipynb
 └── README.md (this file)
+```
+```
 
 🔥 Module-by-Module Detailed Summary
 ✅ Module 1 — Machine Learning Foundations
